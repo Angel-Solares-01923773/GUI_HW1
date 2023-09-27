@@ -1,0 +1,82 @@
+html{
+    background-color:aliceblue;
+}
+@font-face {
+    font-family: playstationfont;
+    src: url('zrnic___.ttf');
+}
+h1 {
+    text-align: center;
+    color: black;
+    margin: 0;
+    font-family: playstationfont;
+    font-size: 70px;
+    }
+    
+.logo{
+    width: 130px;
+    height: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 20px;
+}
+
+.icons{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    margin: 0;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: playstationfont;
+    font-size: 35px;    
+
+}
+
+h2 {
+    text-align: center;
+    color:black;
+
+}
+h3 {
+    text-align: center;
+    color:dimgray;
+    font-family: playstationfont;    
+    margin: 0;
+    margin-top: 15px;
+    font-size: 50px;
+}
+a{
+    font-family: playstationfont;
+    display: inline-block;
+    text-align: left;
+    color:black;
+    margin-left: 113px;
+    margin-top: 20px;
+    font-size: 40px;
+    
+}
+.ps4, .ps5 {
+    font-family: playstationfont;
+    display: inline-block;
+    text-align: left;
+    color:black;
+    margin-left: 125px;
+    font-size: 40px;   
+}
+
+img {
+    width: 220px;
+    height: 180px;
+    margin-left: 71px;
+    margin-top: 16px;
+}
+
